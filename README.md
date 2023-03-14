@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kumar Lokesh Singh
-- 👀 I’m interested in Blockchain
+- 👀 I’m interested in Coding & Blockchain
 - 🌱 I’m learning to code
 - 💞️ I’m looking to collaborate on Blockchain
 - 📫 How to reach me - klsingh0912@gmail.com
