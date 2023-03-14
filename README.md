@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klsingh
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning to code Haskell, Plutus & Marlowe
+- 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on Blockchain
 - 📫 How to reach me - klsingh0912@gmail.com
 
