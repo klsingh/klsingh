@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kumar Lokesh Singh
 - 👀 I’m interested in Coding, Blockchain, AI
 - 🌱 I’m learning to code so that I can create something meaningful & helpful
-- 💞️ I’m looking to collaborate on Blockchain or AI
+- 💞️ I’m looking to collaborate on Blockchain and AI
 - 📫 How to reach me - klsingh0912@gmail.com
 
 <!---
