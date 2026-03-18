@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Kumar Lokesh Singh
-- 👀 I’m interested in Coding, Blockchain, AI
-- 🌱 I’m learning to code so that I can create something meaningful & helpful
-- 💞️ I’m looking to collaborate on Blockchain and AI
-- 📫 How to reach me - klsingh0912@gmail.com
+# Hey, I'm Kumar Lokesh Singh 👋
 
-<!---
-klsingh/klsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!
+
+I'm an aspiring developer with a strong interest in **Artificial Intelligence and Coding**.  
+I'm currently learning and building my skills with the goal of creating meaningful technology that solves real-world problems.
+
+## 🚀 What I'm Focused On
+- Learning programming step by step
+- Exploring AI and Blockchain technologies
+- Building projects that are practical, helpful, and innovative
+- Connecting with like-minded people and collaborators
+
+## 🤝 Looking to Collaborate On
+Projects related to:
+- Artificial Intelligence
+- Useful tech ideas with real-world impact
+
+## 📬 Contact Me
+- Email: **klsingh0912@gmail.com**
+
+---
+⭐ Always learning, always building.
